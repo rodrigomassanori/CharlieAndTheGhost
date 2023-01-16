@@ -424,72 +424,72 @@ MonoBehaviour:
   m_PointlightHDType: 0
   m_SpotLightShape: 0
   m_AreaLightShape: 0
---- !u!1001 &3215726078514578531
+--- !u!1001 &8584653030424965068
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 2333396792297627465, guid: 7f46dc70fa8b98647834862b707531c5,
-        type: 3}
-      propertyPath: m_Name
-      value: DemonDog
-      objectReference: {fileID: 0}
-    - target: {fileID: 3110356395629725171, guid: 7f46dc70fa8b98647834862b707531c5,
+    - target: {fileID: 2756017473332762617, guid: 8e25282cf8f4a2d4d9baa52febc15a17,
         type: 3}
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
-    - target: {fileID: 3110356395629725171, guid: 7f46dc70fa8b98647834862b707531c5,
+    - target: {fileID: 2756017473332762617, guid: 8e25282cf8f4a2d4d9baa52febc15a17,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.004528813
+      value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 3110356395629725171, guid: 7f46dc70fa8b98647834862b707531c5,
+    - target: {fileID: 2756017473332762617, guid: 8e25282cf8f4a2d4d9baa52febc15a17,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 4.244461
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3110356395629725171, guid: 7f46dc70fa8b98647834862b707531c5,
+    - target: {fileID: 2756017473332762617, guid: 8e25282cf8f4a2d4d9baa52febc15a17,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.6526743
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3110356395629725171, guid: 7f46dc70fa8b98647834862b707531c5,
+    - target: {fileID: 2756017473332762617, guid: 8e25282cf8f4a2d4d9baa52febc15a17,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.64311874
+      value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 3110356395629725171, guid: 7f46dc70fa8b98647834862b707531c5,
+    - target: {fileID: 2756017473332762617, guid: 8e25282cf8f4a2d4d9baa52febc15a17,
         type: 3}
       propertyPath: m_LocalRotation.x
-      value: -0.76576644
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3110356395629725171, guid: 7f46dc70fa8b98647834862b707531c5,
+    - target: {fileID: 2756017473332762617, guid: 8e25282cf8f4a2d4d9baa52febc15a17,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 1.3616627e-17
+      value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 3110356395629725171, guid: 7f46dc70fa8b98647834862b707531c5,
+    - target: {fileID: 2756017473332762617, guid: 8e25282cf8f4a2d4d9baa52febc15a17,
         type: 3}
       propertyPath: m_LocalRotation.z
-      value: -1.3616623e-17
+      value: -0
       objectReference: {fileID: 0}
-    - target: {fileID: 3110356395629725171, guid: 7f46dc70fa8b98647834862b707531c5,
+    - target: {fileID: 2756017473332762617, guid: 8e25282cf8f4a2d4d9baa52febc15a17,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3110356395629725171, guid: 7f46dc70fa8b98647834862b707531c5,
+    - target: {fileID: 2756017473332762617, guid: 8e25282cf8f4a2d4d9baa52febc15a17,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3110356395629725171, guid: 7f46dc70fa8b98647834862b707531c5,
+    - target: {fileID: 2756017473332762617, guid: 8e25282cf8f4a2d4d9baa52febc15a17,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3275392253710077251, guid: 8e25282cf8f4a2d4d9baa52febc15a17,
+        type: 3}
+      propertyPath: m_Name
+      value: DemonDog
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 7f46dc70fa8b98647834862b707531c5, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 8e25282cf8f4a2d4d9baa52febc15a17, type: 3}
